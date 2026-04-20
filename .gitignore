@@ -1,0 +1,4 @@
+# Only revisible.html is tracked
+*
+!.gitignore
+!revisible.html
